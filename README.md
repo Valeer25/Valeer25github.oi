@@ -1,10 +1,21 @@
 # Valeer25github.oi
 El instructor solicito una hoja de vida con foto 
+
+
+
+
 📄 HOJA DE VIDA
 
+
 Nombre: Valentina Rincón
+
+
 Documento: 1149438419
+
+
 Teléfono: 3013083737
+
+
 Dirección: Carrera 4A #40-35
 
 🎯 PERFIL PERSONAL
@@ -52,7 +63,10 @@ Responsabilidad
 
 📌 Intereses Profesionales
 
+
 Quiero ser desarrolladora de diseño web
+
+
 Quiero ser programadora frontend
 
 GitHub: (valeer_m25.github.io)
