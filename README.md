@@ -92,6 +92,9 @@ Trabajo en equipo
 Responsabilidad
 
 
+
+
+
 📌 Intereses Profesionales
 
 
