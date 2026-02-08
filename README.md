@@ -1,2 +1,2 @@
 # Valeer25github.oi
-el instructor hizo l
+el instructor solicito una hoja de vida con foto 
