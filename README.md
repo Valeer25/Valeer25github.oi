@@ -2,7 +2,7 @@
 El instructor solicito una hoja de vida con foto 
 
 
-
+⸻
 
 📄 HOJA DE VIDA
 
