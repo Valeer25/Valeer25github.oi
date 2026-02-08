@@ -111,7 +111,7 @@ Quiero ser programadora frontend
 
 GitHub: (valeer_m25.github.io)
 
-⸻
+
 
 Correo: (rinconvalentina016@gmail.com)
 
