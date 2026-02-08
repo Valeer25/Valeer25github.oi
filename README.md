@@ -36,28 +36,59 @@ Formacion en Analisis y Desarrollo de Software (ADSO)
 ⸻
 
 🛠️  Habilidades Técnicas
+	
+	
 	•	Manejo básico de computadoras
+	
+	
 	•	Instalación de programas y software
+	
+	
 	•	Soporte técnico básico
+	
+	
 	•	Conocimientos básicos en redes
+	
+	
 	•	Uso de Microsoft Word, Excel y PowerPoint
+	
+	
 	•	Manejo de internet y correo electrónico
+	
+	
 	•	Organización de archivos digitales
+	
+	
 	•	Resolución básica de problemas técnicos
+	
+	
 	•	Trabajo con equipos tecnológicos
 
 ⸻
 
+
 🌍 Idiomas
+
+
 Español: Nativo
+
+
 Inglés: Nivel comunicativo / funcional
 
 ⸻
 
 💡 Habilidades Blandas 
+
+
 Liderazgo
+
+
 Creatividad
+
+
 Trabajo en equipo
+
+
 Responsabilidad
 
 
