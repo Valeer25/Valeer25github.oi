@@ -55,12 +55,7 @@ Formacion en Analisis y Desarrollo de Software (ADSO)
 	
 	•	Manejo de internet y correo electrónico
 	
-	
-	•	Organización de archivos digitales
-	
-	
-	•	Resolución básica de problemas técnicos
-	
+
 	
 	•	Trabajo con equipos tecnológicos
 
